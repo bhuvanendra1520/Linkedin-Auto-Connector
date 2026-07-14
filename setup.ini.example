@@ -1,0 +1,4 @@
+[LinkedIn]
+# Fallback credentials used if li_at cookie login fails
+email = YOUR_EMAIL_HERE
+password = YOUR_PASSWORD_HERE
